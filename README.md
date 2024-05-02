@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-Check out the live demo of the project [Vepio](https://vepio.vercel.app)
+Check out the live demo of the project [Vepio](https://realvepio.vercel.app)
 
 
 
