@@ -69,4 +69,8 @@ To get a local copy of the project up and running, follow these steps:
    npm run dev
    ```
 
----
+## Follow me On GitHub
+```bash
+https://github.com/lalitkumarjangid
+```
+
